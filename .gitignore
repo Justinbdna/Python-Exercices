@@ -1,0 +1,21 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Cache Python et fichiers compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Variables d'environnement locales
+.env
