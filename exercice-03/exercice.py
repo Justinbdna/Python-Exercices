@@ -8,10 +8,6 @@ max_temp = max(temperatures)
 print(f"Moyenne : {moyenne:.2f}")
 print(f"Min : {min_temp} / Max : {max_temp}")
 
-
-print(f"Moyenne : {moyenne:.2f}")
-print(f"Min : {min_temp} / Max : {max_temp}")
-
 # Compter les jours > 15 °C avec une boucle
 jours_chauds = 0
 for t in temperatures:
